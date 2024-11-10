@@ -13,6 +13,6 @@ function anyRisk(value) {
 }
 anyRisk("renald"); // terlihat tidak ada error pada saat kompilasi. tapi sebenarnya ada error pada saat runtime
 // ganti argument menjadi number. karena toFixed() hanya bisa dijalankan pada tipe data number
-logValue("renald");
+logValue("renald"); //hai
 logValue(24);
 console.log(data);
